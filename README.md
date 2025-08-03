@@ -46,7 +46,7 @@ The following steps were followed to build the attrition prediction model:
 3. **Train-Test Split**
 -Split data into 80% training and 20% testing using train_test_split
 
-4.**Model Building & Training**
+4. **Model Building & Training**
 Trained multiple models for comparison:
 -Logistic Regression
 -Decision Tree Classifier
