@@ -33,37 +33,32 @@ Key features include:
 The following steps were followed to build the attrition prediction model:
 
 1. **Data Loading and Exploration**
--Loaded the dataset using pandas
--Explored data structure, types, and missing values. Performed partial EDA.
--Visualized basic distributions and feature relationships
+- Loaded the dataset using pandas
+- Explored data structure, types, and missing values. Performed partial EDA.
+- Visualized basic distributions and feature relationships
 
 2. **Data Preprocessing**
--Filled or handled missing values
--Merged rare categories under a common label (e.g., "Other group")
--Encoded categorical variables using LabelEncoder
--Separated features (X) and target (y)
+- Filled or handled missing values
+- Merged rare categories under a common label (e.g., "Other group")
+- Encoded categorical variables using LabelEncoder
+- Separated features (X) and target (y)
 
-3. **Train-Test Split**
--Split data into 80% training and 20% testing using train_test_split
+3. **Train-Test Split**: Split data into 80% training and 20% testing using train_test_split
 
-4. **Model Building & Training**
-Trained multiple models for comparison:
+4. **Model Building & Training**: Trained multiple models for comparison:
 - Logistic Regression
 - Decision Tree Classifier
 - K-Nearest Neighbors (KNN)
 - Random Forest Classifier
 - Fit each model on the training dataset
 
-5. **Model Evaluation**
-Evaluated each model on the test set using:
+5. **Model Evaluation**: Evaluated each model on the test set using:
 - Accuracy
 - Classification Report
 - Confusion Matrix
-
 Selected the best-performing model for final prediction
 
-6. **Prediction**
-Used the selected model to predict attrition on unseen data
+6. **Prediction**: Used the selected model to predict attrition on unseen data
 
 
 
