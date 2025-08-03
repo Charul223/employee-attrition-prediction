@@ -1,0 +1,19 @@
+## How to Use
+
+You can run this notebook using:
+
+- Google Colab (recommended)
+- Jupyter Notebook
+
+No setup needed in Colab — just upload the dataset and execute the cells.
+
+## Author
+
+**Charul Dhekekar**  
+Fourth-Year BTech CSE Student  
+
+## Future Enhancements
+
+- Hyperparameter tuning (GridSearchCV)
+- Add cross-validation
+- Explore deployment using Flask/Streamlit
