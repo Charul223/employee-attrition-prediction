@@ -55,7 +55,7 @@ Trained multiple models for comparison:
 -Fit each model on the training dataset
 
 5. **Model Evaluation**
--Evaluated each model on the test set using:
+Evaluated each model on the test set using:
 -Accuracy
 -Classification Report
 -Confusion Matrix
