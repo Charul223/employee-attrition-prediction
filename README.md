@@ -7,7 +7,7 @@ This project aims to predict whether an employee is likely to leave using variou
 Employee attrition greatly impacts financial health, productivity and morale of a company. This also leads to incresed training and hiring costs, decreasing productivity. Understanding this problem and finding and implementing solutions for the same is crucial for maintaining a stable and motivated workforce.
 Even in today's unpredictable job market, employee attrition is crucial- even post layoffs. This is meaningful as it helps in retaining key talent and reduce turnover costs.
 
-## Datset:
+## Dataset:
 Size: 902 rows, 16 features
 
 ## Technologies & Libraries
@@ -28,7 +28,7 @@ Key features include:
 -Gender
 -Marital Status
 
-  ## Model Workflow
+## Model Workflow:
 
 The following steps were followed to build the attrition prediction model:
 
