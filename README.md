@@ -20,13 +20,13 @@ Size: 902 rows, 16 features
 
 ## Features used:
 Key features include:
--Age
--Emp. Group
--Function
--Location
--Tenure
--Gender
--Marital Status
+- Age
+- Emp. Group
+- Function
+- Location
+- Tenure
+- Gender
+- Marital Status
 
 ## Model Workflow:
 
@@ -48,17 +48,17 @@ The following steps were followed to build the attrition prediction model:
 
 4. **Model Building & Training**
 Trained multiple models for comparison:
--Logistic Regression
--Decision Tree Classifier
--K-Nearest Neighbors (KNN)
--Random Forest Classifier
--Fit each model on the training dataset
+- Logistic Regression
+- Decision Tree Classifier
+- K-Nearest Neighbors (KNN)
+- Random Forest Classifier
+- Fit each model on the training dataset
 
 5. **Model Evaluation**
 Evaluated each model on the test set using:
--Accuracy
--Classification Report
--Confusion Matrix
+- Accuracy
+- Classification Report
+- Confusion Matrix
 
 Selected the best-performing model for final prediction
 
